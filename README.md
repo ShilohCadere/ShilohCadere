@@ -5,6 +5,12 @@
 
 -  I'm based out of Salt Lake City, UT. When not coding, I'm probably listening to podcasts, building Legos, or playing with my two dogs.
 
+
+
+<a href="url"><img src="[http://url.to/image.png](https://github.com/user-attachments/assets/869601b6-21b6-4b17-b391-1c2d364edeae)" align="center" height="48" width="48" ></a>
+
+![image](https://github.com/user-attachments/assets/869601b6-21b6-4b17-b391-1c2d364edeae)
+
 <!---
 ShilohCadere/ShilohCadere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
