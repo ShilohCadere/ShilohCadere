@@ -3,7 +3,7 @@
 - I’m currently learning HTML, CSS, front-end web development. Look for upcoming projects utilizing these!
 -  shilohks@hotmail.com | https://www.linkedin.com/in/shilohsmithcadere/
 
--  I'm based out of Saint Louis, MO. When not coding, I'm probably listening to podcasts, building Legos, or playing with my two dogs.
+-  I'm based out of Salt Lake City, UT. When not coding, I'm probably listening to podcasts, building Legos, or playing with my two dogs.
 
 <!---
 ShilohCadere/ShilohCadere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
