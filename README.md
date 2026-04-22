@@ -1,14 +1,78 @@
-- Hi, I’m Shiloh (Smith) Cadere. I hold a Master's in Biotechnology/Bioinformatics, as well as a Bachelor's in Biological Sciences.
-- I’m interested in applying my knowledge of Python, R, and SQL to the analysis of real world data.
-- I’m currently learning HTML, CSS,  and front-end web development. Look for upcoming projects utilizing these!
--  shilohks@hotmail.com | https://www.linkedin.com/in/shilohsmithcadere/
+## Shiloh (Smith) Cadere
+**Bioinformatics Analyst | Clinical NGS Pipelines | Python • R • SQL**
 
--  I'm based out of Salt Lake City, UT. When not coding, I'm probably listening to podcasts, building Legos, or playing with my two dogs.
+Remote (US) | shilohcadere@gmail.com | GitHub: github.com/shilohcadere | LinkedIn: linkedin.com/in/shilohsmithcadere
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/869601b6-21b6-4b17-b391-1c2d364edeae" img width="300" height="300">
-</p>
-<!---
-ShilohCadere/ShilohCadere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+I’m a bioinformatics analyst focused on building and improving clinical next-generation sequencing (NGS) pipelines. My work centers on turning raw sequencing data into reliable, interpretable results for research and clinical decision-making.
+
+I specialize in Python-based data processing, reproducible workflows, and pipeline automation in regulated or research environments.
+
+---
+
+## Core Expertise
+- Clinical & research NGS pipeline development
+- Variant calling workflows (WGS / WES / targeted panels)
+- QC, alignment, and post-processing automation
+- Reproducible analysis using Python, R, and SQL
+- Workflow orchestration (e.g., Snakemake / Nextflow concepts)
+- Data wrangling, statistical analysis, and reporting
+
+---
+
+## Technical Skills
+**Languages:** Python, R, SQL, Bash
+
+**Bioinformatics Tools:**
+- FASTQ / BAM / VCF processing
+- Alignment & QC tooling (e.g., BWA, samtools concepts)
+- Variant analysis pipelines
+
+**Data & Engineering:**
+- Pandas, NumPy, Bioconductor ecosystem
+- Relational databases (SQL)
+- Workflow automation & scripting
+
+**General:**
+- Git / GitHub version control
+- Linux environment workflows
+- Reproducible research practices
+
+---
+
+## Featured Projects
+### Genomic Data Processing & QC Tools (Python, R)
+Developed scripts for genomic data parsing, filtering, and QC evaluation across sequencing datasets
+Reduced manual review effort and improved reproducibility of analysis workflows
+### GenBank → FASTA Conversion Tool (Python)
+Built a sequence conversion utility to standardize genomic formats for downstream analysis pipelines
+### DNA Sequence Analysis Application (Java)
+Developed a GUI-based tool for exploratory DNA sequence analysis
+### Laboratory Workflow Database (SQL)
+Designed a relational database for structured sample tracking and workflow management
+
+---
+
+## What I’m Focused On
+- Clinical-grade pipeline robustness
+- Scalable, modular workflow design
+- Improving reproducibility in genomic analysis
+- Moving toward production-ready bioinformatics systems
+
+---
+
+## Currently Improving
+- Workflow orchestration (Nextflow/Snakemake deeper practice)
+- Cloud-based bioinformatics pipelines
+- Containerization (Docker-based reproducibility)
+
+---
+
+## Let’s Connect
+If you’re working on genomics, clinical pipelines, or bioinformatics infrastructure, I’m open to collaboration and remote opportunities.
+
+---
+4. Optimize for ATS + recruiter scanning
+
