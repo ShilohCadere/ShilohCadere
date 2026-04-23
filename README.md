@@ -1,73 +1,73 @@
-## Shiloh (Smith) Cadere
-**Bioinformatics Analyst | Clinical NGS Pipelines | Python • R • SQL**
+# Bioinformatics Analyst
 
-Remote (US) | shilohcadere@gmail.com | GitHub: github.com/shilohcadere | LinkedIn: linkedin.com/in/shilohsmithcadere
+Bioinformatics analyst focused on building Python-based tools and workflows for genomic data processing, QC-style analysis, and structured biological data systems.
 
----
-
-## About Me
-
-Bioinformatics analyst focused on clinical NGS pipelines and Python-based genomic data processing tools. I build reproducible workflows that turn raw sequencing data into structured, interpretable results.
+I design reproducible workflows that move from raw sequence data to interpretable, structured outputs using Python and SQL.
 
 ---
 
-## Core Expertise
-- Clinical NGS pipeline development
-- Variant calling workflows (WGS / WES / targeted sequencing)
-- FASTQ, BAM, and VCF processing
-- QC, alignment, and post-processing automation
+## Focus Areas
+
+- Genomic data processing and sequence analysis
+- Workflow-style bioinformatics pipelines (QC, filtering, transformation)
+- Clinical and research-oriented data structuring
 - Reproducible analysis using Python, R, and SQL
-- Workflow design (Snakemake / Nextflow concepts)
+- Building modular CLI tools for biological data workflows
+
+---
+
+## Portfolio Overview
+
+My work is organized around a simple bioinformatics data lifecycle:
+
+### Sequence Analysis Tools
+**Genomic Toolkit (Python CLI Tool)**  
+A modular command-line tool for FASTA sequence analysis, nucleotide composition, and translation.
+
+→ Focus: raw sequence processing and analysis utilities
+
+---
+
+### Pipeline-style Processing (In Development)
+**NGS QC + Filtering Pipeline**  
+A workflow-style project designed to simulate early-stage sequencing QC, including:
+- sequence quality checks
+- filtering low-quality reads
+- summary reporting
+
+→ Focus: pipeline design and reproducible processing logic
+
+---
+
+### Data Management Systems
+**Laboratory Information Management System (SQL)**  
+Relational database designed for structured tracking of samples, workflows, and experimental metadata.
+
+→ Focus: biological data organization and queryable systems
 
 ---
 
 ## Technical Skills
-**Languages:** Python, R, SQL, Bash
 
-**Bioinformatics Tools:**
-- FASTQ / BAM / VCF processing
-- Alignment & QC tooling (e.g., BWA, samtools concepts)
-- Variant analysis pipelines
-
-**Data & Engineering:**
-- Pandas, NumPy, Bioconductor ecosystem
-- Relational databases (SQL)
-- Workflow automation & scripting
-
-**General:**
-- Git / GitHub version control
-- Linux environment workflows
-- Reproducible research practices
+**Languages:** Python, R, SQL, Bash  
+**Bioinformatics:** FASTA/FASTQ processing, QC concepts, sequence analysis  
+**Data Systems:** relational database design, structured biological datasets  
+**Tools & Concepts:** Git, Linux, reproducible workflows
 
 ---
 
-## Featured Projects
+## Current Direction
 
-### Genomic Toolkit — CLI Bioinformatics Analysis Tool (Python)
-Modular command-line tool for FASTA sequence analysis, nucleotide composition, and codon-based translation. Built with a packaged Python structure and installable CLI interface to simulate real-world bioinformatics preprocessing workflows.
+I am actively developing toward roles involving:
 
-  Includes:
-- FASTA parsing and validation
-- GC/AT content analysis
-- DNA complement and translation (frames 1–3)
-- Installable CLI tool via `pip`
+- clinical bioinformatics pipelines
+- sequencing data QC and preprocessing
+- scalable genomic data workflows
+- reproducible computational biology systems
 
 ---
 
-### Laboratory Information Management System (SQL)
-Relational database system designed for structured tracking of samples, workflows, and experimental metadata. Focused on data integrity, relational schema design, and query efficiency for laboratory operations.
+## Contact
 
----
-
-##  Currently Focused On
-- Workflow orchestration (Snakemake / Nextflow concepts)
-- Containerized bioinformatics pipelines (Docker)
-- Scalable clinical data processing workflows
-
----
-
-
-## Let’s Connect
-If you’re working on genomics, clinical pipelines, or bioinformatics infrastructure, I’m open to collaboration and remote opportunities.
-
+Open to remote bioinformatics and computational biology opportunities.
 
