@@ -73,6 +73,4 @@ Designed a relational database for structured sample tracking and workflow manag
 ## Let’s Connect
 If you’re working on genomics, clinical pipelines, or bioinformatics infrastructure, I’m open to collaboration and remote opportunities.
 
----
-4. Optimize for ATS + recruiter scanning
 
