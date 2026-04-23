@@ -6,19 +6,18 @@ Remote (US) | shilohcadere@gmail.com | GitHub: github.com/shilohcadere | LinkedI
 ---
 
 ## About Me
-I’m a bioinformatics analyst focused on building and improving clinical next-generation sequencing (NGS) pipelines. My work centers on turning raw sequencing data into reliable, interpretable results for research and clinical decision-making.
 
-I specialize in Python-based data processing, reproducible workflows, and pipeline automation in regulated or research environments.
+Bioinformatics analyst focused on clinical NGS pipelines and Python-based genomic data processing tools. I build reproducible workflows that turn raw sequencing data into structured, interpretable results.
 
 ---
 
 ## Core Expertise
-- Clinical & research NGS pipeline development
-- Variant calling workflows (WGS / WES / targeted panels)
+- Clinical NGS pipeline development
+- Variant calling workflows (WGS / WES / targeted sequencing)
+- FASTQ, BAM, and VCF processing
 - QC, alignment, and post-processing automation
 - Reproducible analysis using Python, R, and SQL
-- Workflow orchestration (e.g., Snakemake / Nextflow concepts)
-- Data wrangling, statistical analysis, and reporting
+- Workflow design (Snakemake / Nextflow concepts)
 
 ---
 
@@ -43,32 +42,30 @@ I specialize in Python-based data processing, reproducible workflows, and pipeli
 ---
 
 ## Featured Projects
-### Genomic Data Processing & QC Tools (Python, R)
-Developed scripts for genomic data parsing, filtering, and QC evaluation across sequencing datasets
-Reduced manual review effort and improved reproducibility of analysis workflows
-### GenBank → FASTA Conversion Tool (Python)
-Built a sequence conversion utility to standardize genomic formats for downstream analysis pipelines
-### DNA Sequence Analysis Application (Java)
-Developed a GUI-based tool for exploratory DNA sequence analysis
-### Laboratory Workflow Database (SQL)
-Designed a relational database for structured sample tracking and workflow management
+
+### Genomic Toolkit — CLI Bioinformatics Analysis Tool (Python)
+Modular command-line tool for FASTA sequence analysis, nucleotide composition, and codon-based translation. Built with a packaged Python structure and installable CLI interface to simulate real-world bioinformatics preprocessing workflows.
+
+  Includes:
+- FASTA parsing and validation
+- GC/AT content analysis
+- DNA complement and translation (frames 1–3)
+- Installable CLI tool via `pip`
 
 ---
 
-## What I’m Focused On
-- Clinical-grade pipeline robustness
-- Scalable, modular workflow design
-- Improving reproducibility in genomic analysis
-- Moving toward production-ready bioinformatics systems
+### Laboratory Information Management System (SQL)
+Relational database system designed for structured tracking of samples, workflows, and experimental metadata. Focused on data integrity, relational schema design, and query efficiency for laboratory operations.
 
 ---
 
-## Currently Improving
-- Workflow orchestration (Nextflow/Snakemake deeper practice)
-- Cloud-based bioinformatics pipelines
-- Containerization (Docker-based reproducibility)
+##  Currently Focused On
+- Workflow orchestration (Snakemake / Nextflow concepts)
+- Containerized bioinformatics pipelines (Docker)
+- Scalable clinical data processing workflows
 
 ---
+
 
 ## Let’s Connect
 If you’re working on genomics, clinical pipelines, or bioinformatics infrastructure, I’m open to collaboration and remote opportunities.
