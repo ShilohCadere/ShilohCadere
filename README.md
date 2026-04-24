@@ -18,7 +18,7 @@ This repository represents an integrated bioinformatics system composed of modul
 ## Core Components
 ### Genomic Toolkit (Python CLI)
 
-Modular command-line tools for FASTA processing, nucleotide composition analysis, and sequence translation.
+Modular command-line tools for FASTA processing, nucleotide composition analysis, and sequence translation.  
 
 → Sequence parsing and transformation utilities for downstream workflows
 
@@ -28,7 +28,8 @@ Workflow-style QC system for evaluating sequencing data quality using threshold-
 - GC content analysis
 - N-base frequency detection
 - Sequence length validation
-- PASS / FLAG / FAIL classification
+- PASS / FLAG / FAIL classification  
+
 → Early-stage QC simulation for clinical-style sequencing workflows
 
 ### Laboratory Information Management System (SQL)
@@ -37,6 +38,7 @@ Relational database for structured management of samples, instruments, and exper
 - Sample tracking and metadata organization
 - Instrument assignment and status modeling
 - Project-based workflow structure
+
 → Data infrastructure layer for laboratory systems
 
 ## Technical Skills
