@@ -5,14 +5,17 @@ Bioinformatics analyst focused on building modular clinical-style systems for ge
 I design reproducible bioinformatics workflows that transform raw sequencing data into validated, queryable outputs using Python, SQL, and CLI-based tools.
 
 ## Clinical NGS Data System
-
-This repository represents an integrated bioinformatics system composed of modular components across the sequencing data lifecycle.
+Modular clinical-style architecture for NGS data processing and validation
 ```
-[LIMS Database] → Sample & metadata tracking
-        ↓
-[NGS QC Pipeline] → Sequence quality evaluation & filtering
-        ↓
-[Genomic Toolkit] → FASTA processing & analysis utilities
+        [ Laboratory Information Management System (LIMS) ]
+        → Sample tracking, metadata management, workflow structure
+                              ↓
+        [ NGS QC Pipeline ]
+        → Sequencing quality evaluation, threshold filtering
+        → PASS / FLAG / FAIL classification
+                              ↓
+        [ Genomic Toolkit ]
+        → FASTA processing, sequence parsing, analysis utilities
 ```
 
 ## Core Components
