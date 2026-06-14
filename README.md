@@ -1,8 +1,7 @@
 ## Bioinformatics Analyst | Clinical NGS Data Systems | Python • SQL
 
-Bioinformatics analyst focused on building modular clinical-style systems for genomic data processing, sequencing QC, and structured laboratory data management.
-
-I design reproducible bioinformatics workflows that transform raw sequencing data into validated, queryable outputs using Python, SQL, and CLI-based tools.
+Bioinformatics Analyst focused on genomics QC, data validation, and workflow development.
+Projects include Nextflow sequencing workflows, Oracle SQL LIMS design, and Python sequence-processing utilities.
 
 ## Clinical NGS Data System
 Modular clinical-style architecture for NGS data processing and validation
