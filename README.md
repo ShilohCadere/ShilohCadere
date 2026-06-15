@@ -1,65 +1,57 @@
-## Bioinformatics Analyst | Clinical NGS Data Systems | Python • SQL
+# Shiloh Cadere
 
-Bioinformatics Analyst focused on genomics QC, data validation, and workflow development.
-Projects include Nextflow sequencing workflows, Oracle SQL LIMS design, and Python sequence-processing utilities.
+**Bioinformatics Analyst | Genomics QC & Data Validation | Python • SQL • Nextflow**
 
-## Clinical NGS Data System
-Modular clinical-style architecture for NGS data processing and validation
-```
-        [ Laboratory Information Management System (LIMS) ]
-        → Sample tracking, metadata management, workflow structure
-                              ↓
-        [ NGS QC Pipeline ]
-        → Sequencing quality evaluation, threshold filtering
-        → PASS / FLAG / FAIL classification
-                              ↓
-        [ Genomic Toolkit ]
-        → FASTA processing, sequence parsing, analysis utilities
-```
+Bioinformatics analyst focused on genomics QC, data validation, workflow development, and laboratory data systems. Projects include Nextflow sequencing workflows, Oracle SQL LIMS design, sequencing QC validation systems, and Python-based bioinformatics utilities.
 
-## Core Components
-### Genomic Toolkit (Python CLI)
+## Portfolio Overview
 
-Modular command-line tools for FASTA processing, nucleotide composition analysis, and sequence translation.  
+### Clinical NGS Workflow (Nextflow & Docker)
 
-→ Sequence parsing and transformation utilities for downstream workflows
+Reproducible workflow integrating FASTQ quality control, alignment, variant calling, and reporting through Nextflow DSL2 and Docker.
+
+→ Workflow orchestration and reproducible bioinformatics execution
+
+### Laboratory LIMS Database (Oracle SQL)
+
+Requirements-driven laboratory information management system supporting sample traceability, workflow tracking, audit logging, and structured data access.
+
+→ Relational database design and laboratory data infrastructure
 
 ### NGS QC Pipeline
 
-Workflow-style QC system for evaluating sequencing data quality using threshold-based logic.
-- GC content analysis
-- N-base frequency detection
-- Sequence length validation
-- PASS / FLAG / FAIL classification  
+Rule-based sequencing QC validation system using threshold-driven evaluation and PASS / FLAG / FAIL classification.
 
-→ Early-stage QC simulation for clinical-style sequencing workflows
+→ Quality validation and sequencing data review logic
 
-### Laboratory Information Management System (SQL)
+### Genomic Toolkit (Python CLI)
 
-Relational database for structured management of samples, instruments, and experimental workflows.
-- Sample tracking and metadata organization
-- Instrument assignment and status modeling
-- Project-based workflow structure
+Python toolkit for FASTA parsing, sequence analysis, protein translation, and command-line processing of nucleotide sequence data.
 
-→ Data infrastructure layer for laboratory systems
+→ Reusable bioinformatics software utilities
 
 ## Technical Skills
 
 **Languages:** Python, SQL, R, Bash
-**Bioinformatics:** FASTA/FASTQ processing, QC metrics, sequence analysis
-**Data Systems:** relational database design, LIMS concepts, structured biological data
+
+**Workflow Systems:** Nextflow (DSL2), Docker
+
+**Bioinformatics:** FASTA/FASTQ processing, QC validation, sequence analysis, variant-calling workflows
+
+**Data Systems:** Relational database design, LIMS concepts, structured biological data management
+
 **Tools:** Git, Linux, CLI-based workflows
-**Focus:** reproducible pipelines, modular system design
 
-## Current Direction
+## Current Focus
 
-Actively building toward roles in:
-- clinical bioinformatics pipelines
-- sequencing QC and validation systems
-- scalable genomic data workflows
-- reproducible computational biology infrastructure
+Building expertise in:
+
+* Bioinformatics workflow development
+* Genomics QC and validation
+* Laboratory data systems
+* Reproducible computational workflows
+* Clinical and research sequencing operations
 
 ## Contact
 
-Open to remote opportunities in bioinformatics, clinical genomics, and data pipeline engineering.
-
+Open to remote opportunities in bioinformatics, genomics data analysis, workflow development, and laboratory data systems.
